@@ -14,7 +14,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
+
 
 ---
 
