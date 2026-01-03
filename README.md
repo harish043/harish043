@@ -16,15 +16,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harish043&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish043&layout=compact&theme=radical" width="350"/>
-</p>
-
----
 
 ### 📫 Reach Out
 - 💼 [LinkedIn](https://linkedin.com/in/harishb04)  
