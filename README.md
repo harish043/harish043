@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Harish 👋</h1>
 <p align="center">
-  <strong>Final Year CS @ VIT Vellore | GenAI Engineer & SDE</strong>
+  <strong>Analyst Intern @ Deloitte | GenAI Engineer & SDE</strong>
 </p>
 
 ---
